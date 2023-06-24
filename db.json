@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Dell",
+      "category": "Laptop",
+      "condition": "New",
+      "price": 699,
+      "comment": "New",
+      "date": "2022-07-09T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Fossil",
+      "category": "Watches",
+      "condition": "Refurbished",
+      "price": 50,
+      "comment": "Refebuished Product",
+      "date": "2022-07-10T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Hp",
+      "category": "Laptop",
+      "condition": "New",
+      "price": 200,
+      "comment": "New product",
+      "date": "2022-07-09T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Titan",
+      "category": "Watches",
+      "condition": "New",
+      "price": 150,
+      "comment": "Titan New watch",
+      "date": "2022-06-07T18:30:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
